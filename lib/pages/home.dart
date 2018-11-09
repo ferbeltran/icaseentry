@@ -36,7 +36,7 @@ class HomePageState extends State<HomePage> {
         'https://csp2.isolvetech.net:44302/caseentrymobile.svc/GetCaseEntries?nFrom=0&nCount=10&readType=Bottom&caseEntryNo=&login=gsaquelares&customerCode=',
         headers: {
           "Authorization":
-              "Basic QjFHSG55STdXQ2pUdHlTa1JHeURqTVRwZnh3SWRpcHNhb1lNVUdqU2JrcUlYMXBBTzg=",
+              "BASIC AUTH",
           "Content-Type": "application/json"
         });
 

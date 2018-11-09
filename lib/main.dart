@@ -8,8 +8,6 @@ import 'package:icaseentry/utils/themes.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 
-
-
 bool usesDarkTheme; 
 SharedPreferences preferences;
 
